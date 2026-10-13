@@ -3,7 +3,8 @@
 
 ### Full-Stack Developer | Software Engineering Enthusiast
 
-<img width="1365" height="596" alt="Portfolio Home" src="https://github.com/user-attachments/assets/cdbf4cdd-7066-48c9-9edf-11adbc21d893" />
+<img width="1351" height="596" alt="Portfolio Home" src="https://github.com/user-attachments/assets/a38743d6-3cbb-41c2-b348-16ccac6dff1f" />
+
 
 I'm an aspiring software engineer based in **Sri Lanka**, passionate about building modern, scalable, and user-friendly web applications.
 
