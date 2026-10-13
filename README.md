@@ -3,6 +3,8 @@
 
 ### Full-Stack Developer | Software Engineering Enthusiast
 
+<img width="1365" height="596" alt="Portfolio Home" src="https://github.com/user-attachments/assets/cdbf4cdd-7066-48c9-9edf-11adbc21d893" />
+
 I'm an aspiring software engineer based in **Sri Lanka**, passionate about building modern, scalable, and user-friendly web applications.
 
 I enjoy working across the full stack — from designing responsive interfaces to developing REST APIs, managing databases, and integrating third-party services.
